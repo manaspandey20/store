@@ -1,0 +1,13 @@
+{
+  "name": "tanishka-love-store-complete",
+  "version": "1.0.0",
+  "description": "Tanishka Love Store - Full-stack e-commerce application",
+  "scripts": {
+    "build": "cd tanishka-love-store && npm install && npm run build",
+    "dev": "cd tanishka-love-store && npm run dev",
+    "start": "cd tanishka-love-store && npm run preview"
+  },
+  "keywords": ["e-commerce", "react", "flask", "vercel"],
+  "author": "Manas Pandey",
+  "license": "MIT"
+} 
