@@ -72,13 +72,13 @@ function App() {
     },
     {
       id: 7,
-      name: "Listening Ears",
-      price: "Free",
-      description: "Patient listening for all your thoughts and feelings.",
+      name: "U know what i mean hehe ",
+      price: "10rs",
+      description: "I don't disappoint.",
       icon: "👂",
       delivery: "24/7 available",
       stock: "Always",
-      category: "Emotional Support"
+      category: "Physical Affection"
     },
     {
       id: 8,
